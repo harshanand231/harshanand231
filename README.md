@@ -1,4 +1,4 @@
-<h2> HI there, fellow Coders! </h2>
+<h2> Hi there, fellow Coders! </h2>
 <h1 align="center">I am Harsh Anand</h1>
 <h3 align="center">
 A passionate Fullstack Web developer from India</h3>
